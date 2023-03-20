@@ -1,0 +1,13 @@
+pocketsphinx
+sounddevice
+openai
+soundfile
+numpy
+speechrecognition
+playsound
+simpleaudio
+gtts
+zhtts
+langdetect
+PyObjC
+PyAudio
